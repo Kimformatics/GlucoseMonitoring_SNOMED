@@ -1,0 +1,6 @@
+Variable,SNOMED_CT_Code,Description
+Glucose Level,46680005,Blood glucose measurement
+Meal Status,165109007,Feeding status
+Insulin Dose,14784000,Insulin therapy
+Exercise Level,68130003,Physical activity level
+HbA1c,165679005,Glycated hemoglobin measurement

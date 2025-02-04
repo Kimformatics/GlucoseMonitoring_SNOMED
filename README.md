@@ -1,4 +1,4 @@
-# Title: Mapping Glucose Monitor Data to SNOMED CT Codes 
+# Mapping Glucose Monitor Data to SNOMED CT Codes 
  
 # Introduction:            
 Glucose monitoring is a cornerstone of diabetes management, but the true power of this data emerges when mapped to standardized medical coding systems like SNOMED CT. This project demonstrates how to structure, analyze, and map glucose monitor readings using Python and R, making them more interoperable across healthcare systems.
